@@ -26,4 +26,5 @@ It can easily be used to manage two different group of users with different perm
 
 Import the Database in Your Server like Xampp, Wamp
 
-Database Name -: developer
+Database Name -: developers
+
